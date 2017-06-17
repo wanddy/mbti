@@ -1,0 +1,65 @@
+:: Myer Briggs Type Indicator (MBTI) Test
+
+Di bawah ini ada 60 nomor. Masing-masing nomor memiliki dua pernyataan yang bertolak belakang (PERNYATAAN 1 & 2). Pilihlah salah satu pernyataan yang paling sesuai dengan diri Anda dengan men-check pada isian pada kolom yang sudah disediakan (KOLOM PILIHAN). Anda HARUS memilih salah satu yang dominan serta mengisi semua nomor.
+No	Pernyataan 1	Pilihan	Pernyataan 2
+1	Melibatkan perasaan itu tidak profesional			Terlalu kaku pada peraturan dan pekerjaan itu kejam
+2	Bergerak dari gambaran umum baru ke detail			Bergerak dari detail ke gambaran umum sebagai kesimpulan akhir
+3	Spontan, Easy Going, fleksibel			Berhati-hati, penuh pertimbangan, kaku
+4	Berinisiatif tinggi hampir dalam berbagai hal meskipun tidak berhubungan dengan dirinya			Berinisiatif bila situasi memaksa atau berhubungan dengan kepentingan sendiri
+5	Mengemukakan tujuan dan sasaran lebih dahulu			Mengemukakan kesepakatan terlebih dahulu
+6	Sering dianggap keras kepala			Sering dianggap terlalu memihak
+7	Spontan, Fleksibel, tidak diikat waktu			Terencana dan memiliki deadline jelas
+8	Bertindak sesuai situasi dan kondisi yang terjadi saat itu			Bertindak sesuai apa yang sudah direncanakan
+9	Pertemuan dengan orang lain dan aktivitas sosial melelahkan			Bertemu orang dan aktivitas sosial membuat bersemangat
+10	Lebih suka komunikasi tidak langsung (telp, surat, e-mail)			Lebih suka komunikasi langsung (tatap muka)
+11	Pendirian masih bisa berubah tergantung situasi nantinya			Berpegang teguh pada pendirian
+12	Fokus pada target dan mengabaikan hal-hal baru			Memperhatikan hal-hal baru dan siap menyesuaikan diri serta mengubah target
+13	Tertutup dan mandiri			Sosial dan ekspresif
+14	Diyakinkan dengan penjelasan yang menyentuh perasaan			Diyakinkan dengan penjelasan yang masuk akal
+15	Ketidakpastian itu seru, menegangkan dan membuat hati lebih senang			Ketidakpastian membuat bingung dan meresahkan
+16	Mempertanyakan			Mengakomodasi
+17	Perubahan adalah musuh			Perubahan adalah semangat hidup
+18	Obyektif			Subyektif
+19	Standar harus ditegakkan di atas segalanya (itu menunjukkan kehormatan dan harga diri)			Perasaan manusia lebih penting dari sekadar standar (yang adalah benda mati)
+20	Berpikir secara matang sebelum bertindak			Berani bertindak tanpa terlalu lama berfikir
+21	Menggunakan pengalaman sebagai pedoman			Menggunakan imajinasi dan perenungan sebagai pedoman
+22	Membangun ide pada saat berbicara			Membangun ide dengan matang baru membicarakannya
+23	Beraktifitas sendirian di rumah menyenangkan			Beraktifitas sendirian di rumah membosankan
+24	Praktis			Konseptual
+25	Fokus pada sedikit hobi namun mendalam			Fokus pada banyak hobi secara luas dan umum
+26	Berorientasi tugas dan job description			Berorientasi pada manusia dan hubungan
+27	Bebas dan dinamis			Prosedural dan tradisional
+28	Merasa nyaman bila situasi tetap terbuka terhadap pilihan-pilihan lain			Merasa tenang bila semua sudah diputuskan
+29	Menuntut perlakuan yang adil dan sama pada semua orang			Menuntut perlakuan khusus sesuai karakteristik masing-masing orang
+30	Mengambil keputusan berdasar logika dan aturan main			Mengambil keputusan berdasar perasaan pribadi dan kondisi orang lain
+31	Menghargai seseorang karena sifat dan perilakunya			Menghargai seseorang karena skill dan faktor teknis
+32	Daftar dan checklist adalah panduan penting			Daftar dan checklist adalah tugas dan beban
+33	Memilih ide inspiratif lebih penting daripada fakta			Memilih fakta lebih penting daripada ide inspiratif
+34	Yang penting situasi harmonis terjaga			Yang penting tujuan tercapai
+35	Situasi last minute membuat bersemangat dan memunculkan potensi			Situasi last minute sangat menyiksa, membuat stress dan merupakan kesalahan
+36	SOP sangat membantu			SOP sangat membosankan
+37	Hidup harus sudah diatur dari awal			Hidup seharusnya mengalir sesuai kondisi
+38	Menganalisa			Berempati
+39	Mengekspresikan semangat			Menyimpan semangat dalam hati
+40	Lebih memilih berkomunikasi dengan menulis			Lebih memilih berkomunikasi dengan bicara
+41	Puas ketika mampu beradaptasi dengan momentum yang terjadi			Puas ketika mampu menjalankan semuanya sesuai rencana
+42	Mencari kesempatan untuk berkomunikasi secara perorangan			Memilih berkomunikasi pada sekelompok orang
+43	Membiarkan orang lain bertindak bebas asalkan tujuan tercapai			Mengatur orang lain dengan tata tertib agar tujuan tercapai
+44	Berorientasi pada hasil			Berorientasi pada proses
+45	Bertindak step by step dengan timeframe yang jelas			Bertindak dengan semangat tanpa menggunakan timeframe
+46	Menemukan dan mengembangkan ide dengan mendiskusikannya			Menemukan dan mengembangkan ide dengan merenungkan
+47	Mengklarifikasi ide dan teori sebelum dipraktekkan			Memahami ide dan teori saat mempraktekkannya langsung
+48	Menarik kesimpulan dengan lama dan hati-hati			menarik kesimpulan dengan cepat sesuai naluri
+49	Kontinuitas dan stabilitas lebih diutamakan			Perubahan dan variasi lebih diutamakan
+50	Mementingkan sebab-akibat			Mementingkan nilai-nilai personal
+51	Berorientasi pada dunia eksternal (kegiatan, orang)			Berorientasi pada dunia internal (memori, pemikiran, ide)
+52	Berfokus pada masa kini (apa yang bisa diperbaiki sekarang)			Berfokus pada masa depan (apa yang mungkin dicapai di masa depan)
+53	Tidak menyukai hal-hal yang bersifat mendadak dan di luar perencanaan			Perubahan mendadak tidak jadi masalah
+54	Secara konsisten mengamati dan mengingat detail			Mengamati dan mengingat detail hanya bila berhubungan dengan pola
+55	Bersemangat saat menolong orang keluar dari kesalahan dan meluruskan			Bersemangat saat mengkritik dan menemukan kesalahan
+56	Berbicara mengenai masalah yang dihadapi hari ini dan langkah-langkah praktis mengatasinya			Berbicara mengenai visi masa depan dan konsep-konsep mengenai visi tersebut
+57	Memilih cara yang sudah ada dan sudah terbukti			Memilih cara yang unik dan belum dipraktekkan orang lain
+58	Lebih memilih tempat yang tenang dan pribadi untuk berkonsentrasi			Lebih memilih tempat yang ramai dan banyak interaksi / aktifitas
+59	Menggunakan keterampilan yang sudah dikuasai			Menyukai tantangan untuk menguasai keterampilan baru
+60	Aturan, jadwal dan target sangat mengikat dan membebani			Aturan, jadwal dan target akan sangat membantu dan memperjelas tindakan
+proses
